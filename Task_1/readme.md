@@ -84,6 +84,3 @@ hangman-game/
 This project is licensed under the **MIT License** — you are free to use, modify, and share it.
 
 ```
-
-If you want, I can also add **Markdown badges** (Python version, license, repo size, etc.) so your GitHub page looks more professional. That would make it stand out a lot more.
-```
