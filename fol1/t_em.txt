@@ -1,0 +1,9 @@
+Hello there,
+
+You can contact us at:
+supp@example.com
+info@example.com
+sale@example.com
+
+Best regards,
+Automation Script Tester
